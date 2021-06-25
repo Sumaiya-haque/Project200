@@ -1,0 +1,204 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo{
+	height:65.5px;
+	width: 65px;
+	margin-left:20px;
+}
+
+.nav-right{
+	color: black;
+	margin-right: 20px;
+}
+
+.nav-right li{
+	margin-right: 20px;
+}
+
+.overlay{
+
+	height: 700px;
+	width: auto;
+	
+
+
+}
+
+
+
+.title{
+	color: #e8a125;
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+    position: relative;
+    top: 150px;
+    
+}
+
+
+
+.title-p{
+	color:black;
+	font-size: 25px;
+	margin-top: 140px;
+	font-weight:600;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+
+}
+
+	
+.welcome{
+	height:90%;
+	width: auto;
+	background: url(ban.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+
+}
+
+
+
+.btn {
+  background-color: black;
+  color:white;
+  width: 200px;
+  height: 50px;
+  font-size: 1.5em;
+  margin-left: 370px;
+  margin-top: 90px;
+  border-radius: 10px;
+
+  
+}
+
+.btn:hover {
+  background-color: #3E7CF5;
+  color: white;
+}
+
+.main-nav li{
+	margin-right: 30px;
+	color: white;
+	text-align: center;
+	font-size: 1.2em;
+	
+}
+
+
+
+.main-nav{
+	background:black;
+	opacity:0.9;
+	height:70px;
+	
+}
+
+
+  
+  
+  .img-fluid {
+  max-width: 100%;
+  height: auto; }
+  
+  .col {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%; 
+  }
+  
+  .s-block {
+	  border-style: double;
+	   border-width: 2px;
+	   border-color: black;
+	   height:380px;
+	   padding:5px;
+  }
+  
+  .my-3{
+	  color: #e8a125;
+	  font-size:22px;
+  }
+  
+  .my-4{
+	  font-size:14px;
+	  text-align:justify;
+	  padding:2px;
+	  
+  }
+
+.welcome2{
+	height: 100%;
+	width: auto;
+	background: url(bannar.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+
+}
+
+.overlay2{
+
+	height: 400px;
+	width: auto;
+	
+
+
+}
+
+
+
+.title2{
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+    position: relative;
+    top: 100px;
+    
+}
+
+
+
+.title-p2{
+	color:black;
+	font-size: 15px;
+	margin-top: 110px;
+	font-weight:600;
+	text-align:left;
+
+}
+
+.btn2 {
+  background-color: black;
+  color:white;
+  font-size: 1.5em;
+  border-radius: 10px;
+  width: 300px;
+
+  
+}
+
+.btn2:hover {
+  background-color: #3E7CF5;
+  color: white;
+}
+
+
+
+
+footer
+{
+	background:black;
+	color: white;
+	margin-top: auto;
+	height: 50px;
+	text-align: center;
+
+}
