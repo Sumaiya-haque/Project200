@@ -190,6 +190,42 @@
   color: white;
 }
 
+#customers {
+  font-family: sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+#customers td, #customers th {
+  border: 1px solid #000000;
+  padding: 8px;
+
+}
+
+
+
+#customers tr:nth-child(even){background-color: #c8dce3;}
+
+#customers tr:nth-child(odd){background-color: #91cbdb;}
+
+
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color:#e8a125;
+  color: black;
+  text-align: center;
+  font-size: 1.5em;
+}
+#customers td
+{
+	text-align: center;
+	color: black;
+	font-size: 1.3em;
+	
+}
 
 
 
